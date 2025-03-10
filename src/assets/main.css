@@ -1,0 +1,39 @@
+@import "tailwindcss";
+
+/* @utility container {
+    margin-inline: auto;
+    @media (width >= theme(--breakpoint-sm)) {
+      padding-inline: 2rem;
+    } 
+} */
+
+.button {
+  @apply rounded-full border uppercase py-1 px-3 sm:px-6 text-xs sm:text-sm hover:bg-white/95 transition-all
+}
+
+@utility container {
+  padding-inline: 10px;
+  margin-inline: auto;
+  max-width: 100%;
+  /* Default max-width for smaller screens */
+
+  @variant sm {
+    max-width: 640px;
+    /* For small screens (sm), set max-width */
+  }
+
+  @variant md {
+    max-width: 768px;
+    /* For large screens (lg), set max-width */
+  }
+
+  @variant lg {
+    max-width: 1024px;
+    /* For large screens (lg), set max-width */
+  }
+
+  @variant xl {
+    max-width: 1280px;
+    /* For extra-large screens (xl), set max-width */
+  }
+}
