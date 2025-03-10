@@ -1,0 +1,5 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/FristSectionCard-CNdS3PjQ.js","assets/index-B-HPk_F5.js","assets/index-DefMEIl5.css"])))=>i.map(i=>d[i]);
+import{c as r,o as s,b as e,a as i,u as o,e as a,_ as n}from"./index-B-HPk_F5.js";import{_ as c}from"./MainSectionTitle-D_0fwiYh.js";const l={class:"container pb-24"},u={class:"my-8 grid grid-cols-1 md:grid-cols-3 gap-4"},y={__name:"FirstSection",setup(d){const t=a(()=>n(()=>import("./FristSectionCard-CNdS3PjQ.js"),__vite__mapDeps([0,1,2])));return(_,m)=>(s(),r("main",l,[e(c,{title:"why you should work with us","sub-title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit."}),i("div",u,[e(o(t),{title:"wide range of properties","sub-title":`We offer expert legal help for all related property\r
+                    items in Dubai.`,icon:"widerangeofproperties"}),e(o(t),{title:"buy or rent homes","sub-title":`We sell your home at the best market price and very\r
+quickly as well.`,icon:"buyorrenthomes"}),e(o(t),{title:"trusted by thousands","sub-title":`We offer you free consultancy to get a loan for your\r
+new home.`,icon:"trustedbythousands"})])]))}};export{y as default};

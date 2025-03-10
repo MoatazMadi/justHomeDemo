@@ -1,0 +1,141 @@
+[
+    {
+        "id": 0,
+        "title": "Luxury Family Home",
+        "address": "1800-1818 79th St",
+        "price": "$395,000",
+        "beds": "4",
+        "shower": "1",
+        "number": 400,
+        "forSale": true,
+        "featured": true,
+        "image": "/RealEstateWebsite/imgs/properties/p1-500x500.jpg"
+    },
+    {
+        "id": 1,
+        "title": "Skyper Pool Apartment",
+        "address": "1020 Bloomingdale Ave",
+        "price": "$280,000",
+        "beds": "4",
+        "shower": "2",
+        "number": 450,
+        "forSale": true,
+        "image": "/RealEstateWebsite/imgs/properties/p2-500x500.jpg"
+    },
+    {
+        "id": 2,
+        "title": "North Dillard Street",
+        "address": "4330 Bell Shoals Rd",
+        "price": "$250/month",
+        "beds": "4",
+        "shower": "2",
+        "number": 400,
+        "forRent": true,
+        "image": "/RealEstateWebsite/imgs/properties/p3-500x500.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Eaton Garth Penthouse",
+        "address": "7722 18th Ave, Brooklyn",
+        "price": "$180,000",
+        "beds": "4",
+        "shower": "2",
+        "number": 450,
+        "forSale": true,
+        "featured": true,
+        "image": "/RealEstateWebsite/imgs/properties/p4-500x500.jpg"
+    },
+    {
+        "id": 4,
+        "title": "New Apartment Nice View",
+        "address": "42 Avenue O, Brooklyn",
+        "price": "$850/month",
+        "beds": "4",
+        "shower": "1",
+        "number": 460,
+        "forRent": true,
+        "featured": true,
+        "image": "/RealEstateWebsite/imgs/properties/p5-500x500.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Diamond Manor Apartment",
+        "address": "7802 20th Ave, Brooklyn",
+        "price": "$259,000",
+        "beds": "4",
+        "shower": "2",
+        "number": 500,
+        "forSale": true,
+        "featured": true,
+        "image": "/RealEstateWebsite/imgs/properties/p6-500x500.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Sunset Beach Villa",
+        "address": "1500 Ocean Dr, Miami",
+        "price": "$950,000",
+        "beds": "5",
+        "shower": "3",
+        "number": 510,
+        "forSale": true,
+        "featured": true,
+        "image": "/RealEstateWebsite/imgs/properties/p1-500x500.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Green Hills Mansion",
+        "address": "1280 Meadow Dr, Los Angeles",
+        "price": "$1,200,000",
+        "beds": "6",
+        "shower": "4",
+        "number": 520,
+        "forSale": true,
+        "image": "/RealEstateWebsite/imgs/properties/p3-500x500.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Lakeview Condo",
+        "address": "900 Riverside Blvd, Chicago",
+        "price": "$320,000",
+        "beds": "3",
+        "shower": "2",
+        "number": 530,
+        "forSale": true,
+        "featured": true,
+        "image": "/RealEstateWebsite/imgs/properties/p2-500x500.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Modern Downtown Loft",
+        "address": "245 Main St, San Francisco",
+        "price": "$3,500/month",
+        "beds": "2",
+        "shower": "2",
+        "number": 540,
+        "forRent": true,
+        "image": "/RealEstateWebsite/imgs/properties/p6-500x500.jpg"
+    },
+    {
+        "id": 10,
+        "title": "Country Cottage",
+        "address": "1835 Country Rd, Vermont",
+        "price": "$400,000",
+        "beds": "3",
+        "shower": "1",
+        "number": 550,
+        "forSale": true,
+        "featured": true,
+        "image": "/RealEstateWebsite/imgs/properties/p4-500x500.jpg"
+    },
+    {
+        "id": 11,
+        "title": "Urban Studio Apartment",
+        "address": "500 Downtown Blvd, New York",
+        "price": "$2,200/month",
+        "beds": "1",
+        "shower": "1",
+        "number": 560,
+        "forRent": true,
+        "image": "/RealEstateWebsite/imgs/properties/p5-500x500.jpg"
+    }
+]
