@@ -9,7 +9,7 @@
         "number": 400,
         "forSale": true,
         "featured": true,
-        "image": "/RealEstateWebsite/imgs/properties/p1-500x500.jpg"
+        "image": "/justHomeDemo/imgs/properties/p1-500x500.jpg"
     },
     {
         "id": 1,
@@ -20,7 +20,7 @@
         "shower": "2",
         "number": 450,
         "forSale": true,
-        "image": "/RealEstateWebsite/imgs/properties/p2-500x500.jpg"
+        "image": "/justHomeDemo/imgs/properties/p2-500x500.jpg"
     },
     {
         "id": 2,
@@ -31,7 +31,7 @@
         "shower": "2",
         "number": 400,
         "forRent": true,
-        "image": "/RealEstateWebsite/imgs/properties/p3-500x500.jpg"
+        "image": "/justHomeDemo/imgs/properties/p3-500x500.jpg"
     },
     {
         "id": 3,
@@ -43,7 +43,7 @@
         "number": 450,
         "forSale": true,
         "featured": true,
-        "image": "/RealEstateWebsite/imgs/properties/p4-500x500.jpg"
+        "image": "/justHomeDemo/imgs/properties/p4-500x500.jpg"
     },
     {
         "id": 4,
@@ -55,7 +55,7 @@
         "number": 460,
         "forRent": true,
         "featured": true,
-        "image": "/RealEstateWebsite/imgs/properties/p5-500x500.jpg"
+        "image": "/justHomeDemo/imgs/properties/p5-500x500.jpg"
     },
     {
         "id": 5,
@@ -67,7 +67,7 @@
         "number": 500,
         "forSale": true,
         "featured": true,
-        "image": "/RealEstateWebsite/imgs/properties/p6-500x500.jpg"
+        "image": "/justHomeDemo/imgs/properties/p6-500x500.jpg"
     },
     {
         "id": 6,
@@ -79,7 +79,7 @@
         "number": 510,
         "forSale": true,
         "featured": true,
-        "image": "/RealEstateWebsite/imgs/properties/p1-500x500.jpg"
+        "image": "/justHomeDemo/imgs/properties/p1-500x500.jpg"
     },
     {
         "id": 7,
@@ -90,7 +90,7 @@
         "shower": "4",
         "number": 520,
         "forSale": true,
-        "image": "/RealEstateWebsite/imgs/properties/p3-500x500.jpg"
+        "image": "/justHomeDemo/imgs/properties/p3-500x500.jpg"
     },
     {
         "id": 8,
@@ -102,7 +102,7 @@
         "number": 530,
         "forSale": true,
         "featured": true,
-        "image": "/RealEstateWebsite/imgs/properties/p2-500x500.jpg"
+        "image": "/justHomeDemo/imgs/properties/p2-500x500.jpg"
     },
     {
         "id": 9,
@@ -113,7 +113,7 @@
         "shower": "2",
         "number": 540,
         "forRent": true,
-        "image": "/RealEstateWebsite/imgs/properties/p6-500x500.jpg"
+        "image": "/justHomeDemo/imgs/properties/p6-500x500.jpg"
     },
     {
         "id": 10,
@@ -125,7 +125,7 @@
         "number": 550,
         "forSale": true,
         "featured": true,
-        "image": "/RealEstateWebsite/imgs/properties/p4-500x500.jpg"
+        "image": "/justHomeDemo/imgs/properties/p4-500x500.jpg"
     },
     {
         "id": 11,
@@ -136,6 +136,6 @@
         "shower": "1",
         "number": 560,
         "forRent": true,
-        "image": "/RealEstateWebsite/imgs/properties/p5-500x500.jpg"
+        "image": "/justHomeDemo/imgs/properties/p5-500x500.jpg"
     }
 ]
